@@ -1,6 +1,6 @@
 # ECHO Sensor Dashboard
 
-A Spring Boot application for monitoring and managing sensor data, particularly focused on gas sensors and water levels.
+A Spring Boot application for monitoring and managing sensor data, particularly focused on gas sensors.
 
 ## Features
 
@@ -49,8 +49,7 @@ mvn spring-boot:run
 ```
 
 5. Access the application:
-- Web Interface: http://localhost:8080
-- H2 Console: http://localhost:8080/h2-console
+- Web Interface: https://sewer-dashboard.onrender.com/
 - API Documentation: http://localhost:8080/swagger-ui.html
 
 ## API Endpoints
